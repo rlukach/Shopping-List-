@@ -3,7 +3,7 @@
 <html>
   <body>
     <h1>Shopping List</h1>
-    <ul>Fruits</ul>
+    <ul><em>Fruits</em></ul>
     <li>Grapes</li>
     <li>Strawberries</li>
     <li>Bananas</li>
