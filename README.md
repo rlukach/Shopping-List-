@@ -30,3 +30,10 @@
     <li>Lemonade</li>
     <li>Orange Juice</li>
     <li>Milk</li>
+    <br>
+    <ul><strong>Clothes</strong></ul>
+    <li>Socks</li>
+    <li>Shirts</li>
+    <li>Pants</li>
+    <li>Tanktops</li>
+    <li>Sweatshirts</li>
