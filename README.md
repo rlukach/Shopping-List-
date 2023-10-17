@@ -13,6 +13,7 @@
     <li>Apples</li>
     <a href="https://www.target.com/p/honeycrisp-apple-each/-/A-31167786#lnk=sametab"><img src="apples.png.png" alt="apples" width="75" height="50"></a>
     <li>Cantaloupe</li>
+    <a href="https://www.target.com/p/cantaloupe-each/-/A-15013939"><img src="cantaloupe.png.png" alt="cantaloupe" width="75" height="50"></a>
     <br>
     <ul><strong>Breakfast</strong></ul>
     <li>Waffles</li>
