@@ -24,9 +24,11 @@
     <a href="https://www.target.com/p/general-mills-cheerios-honey-nut-cereal/-/A-89089767?preselect=81875234#lnk=sametab"><img src="cereal.png.png" alt="cereal" width="50" height="50"></a>
     <li>Poptarts</li>
     <a href="https://www.target.com/p/pop-tarts-frosted-cookies-38-cr-232-me-pastries-12ct-20-3oz/-/A-14895490#lnk=sametab"><img src="poptart.png.png" alt="poptart" width="75" height="50></a>
-    <li>Yogurt</li>                                                                                                           <br>
+    <li>Yogurt</li>  
+    <br>
     <ul><strong>Toiletries</strong></ul>
     <li>Shampoo</li>
+     <a href="https://www.target.com/p/garnier-fructis-sleek-shine-fortifying-shampoo-for-frizzy-hair/-/A-51340316?preselect=14656270#lnk=sametab"><img scr="shampoo.png.png" alt="shampoo" width="50" height="75"></a>                                                                                                                         
     <li>Toothpaste</li>
     <li>Fasewash</li>
     <li>Bodywash</li>
