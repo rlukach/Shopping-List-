@@ -27,8 +27,7 @@
     <li>Yogurt</li>  
     <br>
     <ul><strong>Toiletries</strong></ul>
-    <li>Shampoo</li>
-     <a href="https://www.target.com/p/garnier-fructis-sleek-shine-fortifying-shampoo-for-frizzy-hair/-/A-51340316?preselect=14656270#lnk=sametab"><img scr="shampoo.png.png" alt="shampoo" width="50" height="75"></a>                                                                                                                         
+    <li>Shampoo</li>                                                                                                                        
     <li>Toothpaste</li>
     <li>Fasewash</li>
     <li>Bodywash</li>
