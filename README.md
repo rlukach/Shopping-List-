@@ -19,7 +19,7 @@
     <li>Waffles</li>
     <a href="https://www.target.com/p/kellogg-s-eggo-buttermilk-frozen-waffles/-/A-88826228?preselect=13190251#lnk=sametab"><img src="waffles.png.png" alt="waffles" width="75" height="50"></a>
     <li>Pancakes</li>
-    <a href="https://www.target.com/p/kellogg-s-eggo-frozen-buttermilk-pancakes/-/A-88827017?preselect=13189239#lnk=sametab"><img src="pa
+    <a href="https://www.target.com/p/kellogg-s-eggo-frozen-buttermilk-pancakes/-/A-88827017?preselect=13189239#lnk=sametab"><img src="pancakes.png.png" alt="pancakes" width="75" height="50"></a>
     <li>Cereal</li>
     <li>Poptarts</li>
     <li>Yougurt</li>
