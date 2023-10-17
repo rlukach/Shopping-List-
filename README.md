@@ -24,7 +24,7 @@
     <a href="https://www.target.com/p/general-mills-cheerios-honey-nut-cereal/-/A-89089767?preselect=81875234#lnk=sametab"><img src="cereal.png.png" alt="cereal" width="50" height="50"></a>
     <li>Poptarts</li>
     <a href="https://www.target.com/p/pop-tarts-frosted-cookies-38-cr-232-me-pastries-12ct-20-3oz/-/A-14895490#lnk=sametab"><img src="poptart.png.png" alt="poptart" width="75" height="50></a>
-    <li>Yogurt</li>
+    <li>Yogurt</li>                                                                                                                          
    <a href="https://www.target.com/p/greek-vanilla-nonfat-yogurt-32oz-good-38-gather-8482/-/A-78362088#lnk=sametab"><img src="yogurt.png.png" alt="yogurt" width="75" height="50"></a>                                                                                                                           
     <br>
     <ul><strong>Toiletries</strong></ul>
