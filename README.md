@@ -5,7 +5,7 @@
     <h1>Shopping List</h1>
     <ul><strong>Fruits</strong></ul>
     <li>Grapes</li>
-    <a href="https://www.target.com/p/extra-large-green-seedless-grapes-1-5lb-bag/-/A-15013624"><img src="grapes.png.png" alt="grapes" width="50" height="50"></a>
+    <a href="https://www.target.com/p/extra-large-green-seedless-grapes-1-5lb-bag/-/A-15013624"><img src="grapes.png.png" alt="grapes" width="75" height="50"></a>
     <li>Strawberries</li>
     <a href="https://www.target.com/p/strawberries-1lb/-/A-13208903"><img src="strawberries.png.png" alt="strawberries" width="75" height="50"></a>
     <li>Bananas</li>
