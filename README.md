@@ -11,6 +11,7 @@
     <li>Bananas</li>
     <a href="https://www.target.com/p/organic-bananas-2lb-good-38-gather-8482/-/A-85759852#lnk=sametab"><img src="bananas.png.png" alt="bananas" width="75" height="50"></a>
     <li>Apples</li>
+    <a href="https://www.target.com/p/honeycrisp-apple-each/-/A-31167786#lnk=sametab"><img src="apples.png.png" alt="apples" width="75" height="50"></a>
     <li>Cantaloupe</li>
     <br>
     <ul><strong>Breakfast</strong></ul>
