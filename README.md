@@ -9,6 +9,7 @@
     <li>Strawberries</li>
     <a href="https://www.target.com/p/strawberries-1lb/-/A-13208903"><img src="strawberries.png.png" alt="strawberries" width="75" height="50"></a>
     <li>Bananas</li>
+    <a href="https://www.target.com/p/organic-bananas-2lb-good-38-gather-8482/-/A-85759852#lnk=sametab"><img src="bananas.png.png" alt="bananas" width="75" height="50"></a>
     <li>Apples</li>
     <li>Cantaloupe</li>
     <br>
