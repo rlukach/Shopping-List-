@@ -35,6 +35,7 @@
     <li>Fasewash</li>
     <a href="https://www.target.com/p/cerave-face-wash-hydrating-facial-cleanser-for-normal-to-dry-skin/-/A-81616326?preselect=51148016#lnk=sametab"><img src="facewash.png.png" alt="facewash" width="50" height="75"></a>
     <li>Bodywash</li>
+    <a href="https://www.target.com/p/dove-beauty-renewing-body-wash-pump-peony-38-rose-oil-30-6-fl-oz/-/A-52732813#lnk=sametab"><img src="bodywash.png.png" alt="bodywash" width="50" height="75"></a>
     <li>Conditioner</li>
     <br>
     <ul><strong>Drinks</strong></ul>
