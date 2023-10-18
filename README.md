@@ -28,7 +28,8 @@
      <a href="https://www.target.com/p/chobani-flip-low-fat-chocolate-s-39-more-s-39-mores-greek-yogurt-4ct-4-5oz-cups/-/A-53375573#lnk=sametab"><img src="yogurt.png.png" alt="yogurt" width="75" height="50"></a>
     <br>
     <ul><strong>Toiletries</strong></ul>
-    <li>Shampoo</li>                                                                                                                        
+    <li>Shampoo</li>
+    <a href="https://www.target.com/p/garnier-fructis-sleek-shine-fortifying-shampoo-for-frizzy-hair/-/A-51340316?preselect=14656270#lnk=sametab><img src="shampoo.png.png alt="shampoo" width="75" height="50"></a>
     <li>Toothpaste</li>
     <li>Fasewash</li>
     <li>Bodywash</li>
