@@ -37,6 +37,7 @@
     <li>Bodywash</li>
     <a href="https://www.target.com/p/dove-beauty-renewing-body-wash-pump-peony-38-rose-oil-30-6-fl-oz/-/A-52732813#lnk=sametab"><img src="bodywash.png.png" alt="bodywash" width="50" height="75"></a>
     <li>Conditioner</li>
+    <a href="https://www.target.com/p/garnier-fructis-sleek-shine-smoothing-conditioner-for-frizzy-hair/-/A-51340265?preselect=14656271#lnk=sametab"><img src="conditioner.png.png" alt="conditioner" width="50" height="75"></a>
     <br>
     <ul><strong>Drinks</strong></ul>
     <li>Iced Tea</li>
