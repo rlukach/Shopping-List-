@@ -33,6 +33,7 @@
     <li>Toothpaste</li>
     <a href="https://www.target.com/p/crest-scope-complete-whitening-toothpaste-minty-fresh/-/A-79146944?preselect=14366454#lnk=sametab"><img src="toothpaste.png.png" alt="toothpaste" width="75" height="50"></a>
     <li>Fasewash</li>
+    <a href="https://www.target.com/p/cerave-face-wash-hydrating-facial-cleanser-for-normal-to-dry-skin/-/A-81616326?preselect=51148016#lnk=sametab"><img src="facewash.png.png" alt="facewash" width="75" height="50"></a>
     <li>Bodywash</li>
     <li>Conditioner</li>
     <br>
