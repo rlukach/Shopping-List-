@@ -43,6 +43,7 @@
     <li>Iced Tea</li>
     <a href="https://www.target.com/p/turkey-hill-lemon-flavored-iced-tea-128-fl-oz/-/A-47103997#lnk=sametab"><img src="icedtea.png.png" alt="icedtea" width="50" height="75"></a>
     <li>Juice Boxes</li>
+    <a href="https://www.target.com/p/capri-sun-variety-pack-30pk-6-fl-oz-pouches/-/A-54341198#lnk=sametab"><img src="juiceboxes.png.png" alt="juiceboxes" width="75" height="50"></a>
     <li>Lemonade</li>
     <li>Orange Juice</li>
     <li>Milk</li>
