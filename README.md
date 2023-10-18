@@ -45,6 +45,7 @@
     <li>Juice Boxes</li>
     <a href="https://www.target.com/p/capri-sun-variety-pack-30pk-6-fl-oz-pouches/-/A-54341198#lnk=sametab"><img src="juiceboxes.png.png" alt="juiceboxes" width="75" height="50"></a>
     <li>Lemonade</li>
+    <a href="https://www.target.com/p/simply-lemonade-52-fl-oz/-/A-13183166#lnk=sametab"><img src="lemonade.png.png" alt="lemonade" width="50" height="75"></a>
     <li>Orange Juice</li>
     <li>Milk</li>
     <br>
