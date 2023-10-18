@@ -41,7 +41,7 @@
     <br>
     <ul><strong>Drinks</strong></ul>
     <li>Iced Tea</li>
-    <a href="https://www.target.com/p/turkey-hill-lemon-flavored-iced-tea-128-fl-oz/-/A-47103997#lnk=sametab"><img src="icedtea.png.png" alt="icedtea" width="50" height="50"></a>
+    <a href="https://www.target.com/p/turkey-hill-lemon-flavored-iced-tea-128-fl-oz/-/A-47103997#lnk=sametab"><img src="icedtea.png.png" alt="icedtea" width="50" height="75"></a>
     <li>Juice Boxes</li>
     <li>Lemonade</li>
     <li>Orange Juice</li>
