@@ -50,6 +50,7 @@
     <li>Orange Juice</li>
     <a href="https://www.target.com/p/simply-orange-pulp-free-juice-52-fl-oz/-/A-13183052"><img src="orangejuice.png.png" alt="orangejuice" width="50" height="75"></a>
     <li>Milk</li>
+    <a href="https://www.target.com/p/lehigh-valley-whole-milk-1gal/-/A-81585043#lnk=sametab"><img src="milk.png.png" alt="milk" width="75" height="50">
     <br>
     <ul><strong>Clothes</strong></ul>
     <li>Socks</li>
