@@ -49,10 +49,11 @@
     <li>Orange Juice</li>
     <a href="https://www.target.com/p/simply-orange-pulp-free-juice-52-fl-oz/-/A-13183052"><img src="orangejuice.png.png" alt="orangejuice" width="50" height="75"></a>
     <li>Milk</li>
-    <a href="https://www.target.com/p/lehigh-valley-whole-milk-1gal/-/A-81585043#lnk=sametab"><img src="milk.png.png" alt="milk" width="75" height="50">
+    <a href="https://www.target.com/p/lehigh-valley-whole-milk-1gal/-/A-81585043#lnk=sametab"><img src="milk.png.png" alt="milk" width="50" height="75">
     <br>
     <ul><strong>Clothes</strong></ul>
     <li>Socks</li>
+      <a href="https://www.target.com/p/hanes-red-label-men-s-8pk-low-cut-socks-with-freshiq/-/A-53448079?preselect=51984066#lnk=sametab"><img src="socks.png.png" alt="socks" width="75" height="50"></a>
     <li>Shirts</li>
     <li>Pants</li>
     <li>Tanktops</li>
