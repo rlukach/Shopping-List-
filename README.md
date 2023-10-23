@@ -55,6 +55,7 @@
     <li>Socks</li>
       <a href="https://www.target.com/p/hanes-red-label-men-s-8pk-low-cut-socks-with-freshiq/-/A-53448079?preselect=51984066#lnk=sametab"><img src="socks.png.png" alt="socks" width="75" height="50"></a>
     <li>Shirts</li>
+    <a href="https://www.target.com/p/women-s-short-sleeve-relaxed-fit-t-shirt-wild-fable/-/A-87277794?preselect=86972970#lnk=sametab"><img src="shirt.png.png" alt="shirt" width="50" height="75"></a>
     <li>Pants</li>
     <li>Tanktops</li>
     <li>Sweatshirts</li>
