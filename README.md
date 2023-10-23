@@ -59,6 +59,6 @@
     <li>Pants</li>
     <a href="https://www.target.com/p/women-s-high-rise-fleece-sweatpants-wild-fable/-/A-84167201?preselect=83873966#lnk=sametab"><img src="pants.png.png" alt="pants" width="50" height="75"></a>
     <li>Tanktops</li>
-    <a href="https://www.target.com/p/women-s-slim-fit-tank-top-a-new-day/-/A-87277759?preselect=87213537#lnk=sametab)https://www.target.com/p/women-s-slim-fit-tank-top-a-new-day/-/A-87277759?preselect=87213537#lnk=sametab"><img src="tanktop.png.png" alt="tanktop" width="75" height="50"></a>
+    <a href="https://www.target.com/p/women-s-slim-fit-tank-top-a-new-day/-/A-87277759?preselect=87213537#lnk=sametab)https://www.target.com/p/women-s-slim-fit-tank-top-a-new-day/-/A-87277759?preselect=87213537#lnk=sametab"><img src="tanktop.png.png" alt="tanktop" width="50" height="75"></a>
     <li>Sweatshirts</li>
-<a href="https://www.target.com/p/reebok-lux-oversized-hoodie-womens/-/A-86699552?preselect=86699565#lnk=sametab"><img src="sweatshirt.png.png" alt="sweatshirt" width="75" height="50"></a>
+<a href="https://www.target.com/p/reebok-lux-oversized-hoodie-womens/-/A-86699552?preselect=86699565#lnk=sametab"><img src="sweatshirt.png.png" alt="sweatshirt" width="50" height="75"></a>
